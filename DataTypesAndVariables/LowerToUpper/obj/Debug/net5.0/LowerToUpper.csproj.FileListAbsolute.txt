@@ -1,0 +1,15 @@
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\obj\Debug\net5.0\LowerToUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\obj\Debug\net5.0\LowerToUpper.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\obj\Debug\net5.0\LowerToUpper.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\obj\Debug\net5.0\LowerToUpper.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\bin\Debug\net5.0\LowerToUpper.exe
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\bin\Debug\net5.0\LowerToUpper.deps.json
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\bin\Debug\net5.0\LowerToUpper.runtimeconfig.json
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\bin\Debug\net5.0\LowerToUpper.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\bin\Debug\net5.0\LowerToUpper.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\bin\Debug\net5.0\ref\LowerToUpper.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\bin\Debug\net5.0\LowerToUpper.pdb
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\obj\Debug\net5.0\LowerToUpper.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\obj\Debug\net5.0\ref\LowerToUpper.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\obj\Debug\net5.0\LowerToUpper.pdb
+C:\Users\LUSI\source\repos\DataTypesAndVariables\LowerToUpper\obj\Debug\net5.0\LowerToUpper.genruntimeconfig.cache
