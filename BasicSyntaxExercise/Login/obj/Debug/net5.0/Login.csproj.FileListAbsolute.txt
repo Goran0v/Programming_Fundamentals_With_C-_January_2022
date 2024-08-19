@@ -1,0 +1,15 @@
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\bin\Debug\net5.0\Login.exe
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\bin\Debug\net5.0\Login.deps.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\bin\Debug\net5.0\Login.runtimeconfig.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\bin\Debug\net5.0\Login.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\bin\Debug\net5.0\Login.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\bin\Debug\net5.0\ref\Login.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\bin\Debug\net5.0\Login.pdb
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\obj\Debug\net5.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\obj\Debug\net5.0\Login.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\obj\Debug\net5.0\Login.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\obj\Debug\net5.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\obj\Debug\net5.0\Login.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\obj\Debug\net5.0\ref\Login.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\obj\Debug\net5.0\Login.pdb
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\Login\obj\Debug\net5.0\Login.genruntimeconfig.cache

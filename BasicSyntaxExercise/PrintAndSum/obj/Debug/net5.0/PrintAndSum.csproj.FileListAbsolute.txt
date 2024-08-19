@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\bin\Debug\net5.0\PrintAndSum.exe
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\bin\Debug\net5.0\PrintAndSum.deps.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\bin\Debug\net5.0\PrintAndSum.runtimeconfig.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\bin\Debug\net5.0\PrintAndSum.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\bin\Debug\net5.0\PrintAndSum.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\bin\Debug\net5.0\ref\PrintAndSum.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\bin\Debug\net5.0\PrintAndSum.pdb
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\obj\Debug\net5.0\PrintAndSum.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\obj\Debug\net5.0\PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\obj\Debug\net5.0\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\obj\Debug\net5.0\PrintAndSum.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\obj\Debug\net5.0\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\obj\Debug\net5.0\PrintAndSum.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\obj\Debug\net5.0\ref\PrintAndSum.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\obj\Debug\net5.0\PrintAndSum.pdb
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\PrintAndSum\obj\Debug\net5.0\PrintAndSum.genruntimeconfig.cache
