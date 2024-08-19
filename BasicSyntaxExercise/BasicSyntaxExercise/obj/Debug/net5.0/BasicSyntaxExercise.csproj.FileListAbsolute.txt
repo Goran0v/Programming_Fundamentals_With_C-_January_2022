@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\net5.0\BasicSyntaxExercise.exe
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\net5.0\BasicSyntaxExercise.deps.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\net5.0\BasicSyntaxExercise.runtimeconfig.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\net5.0\BasicSyntaxExercise.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\net5.0\BasicSyntaxExercise.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\net5.0\ref\BasicSyntaxExercise.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\net5.0\BasicSyntaxExercise.pdb
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\net5.0\BasicSyntaxExercise.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\net5.0\BasicSyntaxExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\net5.0\BasicSyntaxExercise.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\net5.0\BasicSyntaxExercise.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\net5.0\BasicSyntaxExercise.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\net5.0\BasicSyntaxExercise.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\net5.0\ref\BasicSyntaxExercise.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\net5.0\BasicSyntaxExercise.pdb
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\net5.0\BasicSyntaxExercise.genruntimeconfig.cache
