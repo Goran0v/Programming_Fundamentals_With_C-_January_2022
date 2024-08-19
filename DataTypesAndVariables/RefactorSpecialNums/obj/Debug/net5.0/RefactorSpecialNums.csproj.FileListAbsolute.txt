@@ -1,0 +1,15 @@
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\bin\Debug\net5.0\RefactorSpecialNums.exe
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\bin\Debug\net5.0\RefactorSpecialNums.deps.json
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\bin\Debug\net5.0\RefactorSpecialNums.runtimeconfig.json
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\bin\Debug\net5.0\RefactorSpecialNums.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\bin\Debug\net5.0\RefactorSpecialNums.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\bin\Debug\net5.0\ref\RefactorSpecialNums.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\bin\Debug\net5.0\RefactorSpecialNums.pdb
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\obj\Debug\net5.0\RefactorSpecialNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\obj\Debug\net5.0\RefactorSpecialNums.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\obj\Debug\net5.0\RefactorSpecialNums.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\obj\Debug\net5.0\RefactorSpecialNums.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\obj\Debug\net5.0\RefactorSpecialNums.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\obj\Debug\net5.0\ref\RefactorSpecialNums.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\obj\Debug\net5.0\RefactorSpecialNums.pdb
+C:\Users\LUSI\source\repos\DataTypesAndVariables\RefactorSpecialNums\obj\Debug\net5.0\RefactorSpecialNums.genruntimeconfig.cache
