@@ -1,0 +1,15 @@
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\bin\Debug\net5.0\PrintPartOfAsciiTable.exe
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\bin\Debug\net5.0\PrintPartOfAsciiTable.deps.json
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\bin\Debug\net5.0\PrintPartOfAsciiTable.runtimeconfig.json
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\bin\Debug\net5.0\PrintPartOfAsciiTable.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\bin\Debug\net5.0\PrintPartOfAsciiTable.dll
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\bin\Debug\net5.0\ref\PrintPartOfAsciiTable.dll
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\bin\Debug\net5.0\PrintPartOfAsciiTable.pdb
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\obj\Debug\net5.0\PrintPartOfAsciiTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\obj\Debug\net5.0\PrintPartOfAsciiTable.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\obj\Debug\net5.0\PrintPartOfAsciiTable.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\obj\Debug\net5.0\PrintPartOfAsciiTable.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\obj\Debug\net5.0\PrintPartOfAsciiTable.dll
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\obj\Debug\net5.0\ref\PrintPartOfAsciiTable.dll
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\obj\Debug\net5.0\PrintPartOfAsciiTable.pdb
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\PrintPartOfAsciiTable\obj\Debug\net5.0\PrintPartOfAsciiTable.genruntimeconfig.cache
