@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\bin\Debug\net5.0\DataAndVariablesExercise.exe
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\bin\Debug\net5.0\DataAndVariablesExercise.deps.json
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\bin\Debug\net5.0\DataAndVariablesExercise.runtimeconfig.json
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\bin\Debug\net5.0\DataAndVariablesExercise.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\bin\Debug\net5.0\DataAndVariablesExercise.dll
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\bin\Debug\net5.0\ref\DataAndVariablesExercise.dll
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\bin\Debug\net5.0\DataAndVariablesExercise.pdb
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\obj\Debug\net5.0\DataAndVariablesExercise.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\obj\Debug\net5.0\DataAndVariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\obj\Debug\net5.0\DataAndVariablesExercise.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\obj\Debug\net5.0\DataAndVariablesExercise.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\obj\Debug\net5.0\DataAndVariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\obj\Debug\net5.0\DataAndVariablesExercise.dll
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\obj\Debug\net5.0\ref\DataAndVariablesExercise.dll
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\obj\Debug\net5.0\DataAndVariablesExercise.pdb
+C:\Users\LUSI\source\repos\DataAndVariablesExercise\DataAndVariablesExercise\obj\Debug\net5.0\DataAndVariablesExercise.genruntimeconfig.cache
