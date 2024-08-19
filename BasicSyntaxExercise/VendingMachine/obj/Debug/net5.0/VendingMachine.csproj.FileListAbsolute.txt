@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\bin\Debug\net5.0\VendingMachine.exe
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\bin\Debug\net5.0\VendingMachine.deps.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\bin\Debug\net5.0\VendingMachine.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\bin\Debug\net5.0\ref\VendingMachine.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\bin\Debug\net5.0\VendingMachine.pdb
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\obj\Debug\net5.0\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\obj\Debug\net5.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\obj\Debug\net5.0\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\obj\Debug\net5.0\VendingMachine.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\obj\Debug\net5.0\ref\VendingMachine.dll
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\obj\Debug\net5.0\VendingMachine.pdb
+C:\Users\LUSI\source\repos\BasicSyntaxExercise\VendingMachine\obj\Debug\net5.0\VendingMachine.genruntimeconfig.cache
