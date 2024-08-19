@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net5.0\DataTypesAndVariables.exe
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net5.0\DataTypesAndVariables.deps.json
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net5.0\DataTypesAndVariables.runtimeconfig.json
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net5.0\DataTypesAndVariables.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net5.0\DataTypesAndVariables.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net5.0\ref\DataTypesAndVariables.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net5.0\DataTypesAndVariables.pdb
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net5.0\DataTypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net5.0\DataTypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net5.0\DataTypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net5.0\DataTypesAndVariables.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net5.0\DataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net5.0\DataTypesAndVariables.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net5.0\ref\DataTypesAndVariables.dll
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net5.0\DataTypesAndVariables.pdb
+C:\Users\LUSI\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net5.0\DataTypesAndVariables.genruntimeconfig.cache
