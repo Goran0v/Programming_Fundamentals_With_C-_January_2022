@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.exe
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.deps.json
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.dll
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.dll
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+C:\Users\LUSI\source\repos\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.genruntimeconfig.cache
