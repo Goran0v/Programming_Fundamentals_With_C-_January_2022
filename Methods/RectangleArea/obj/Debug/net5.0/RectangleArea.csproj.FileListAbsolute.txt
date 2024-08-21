@@ -1,0 +1,15 @@
+C:\Users\LUSI\source\repos\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.exe
+C:\Users\LUSI\source\repos\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.deps.json
+C:\Users\LUSI\source\repos\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.runtimeconfig.json
+C:\Users\LUSI\source\repos\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.dll
+C:\Users\LUSI\source\repos\Methods\RectangleArea\bin\Debug\net5.0\ref\RectangleArea.dll
+C:\Users\LUSI\source\repos\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.pdb
+C:\Users\LUSI\source\repos\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.dll
+C:\Users\LUSI\source\repos\Methods\RectangleArea\obj\Debug\net5.0\ref\RectangleArea.dll
+C:\Users\LUSI\source\repos\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.pdb
+C:\Users\LUSI\source\repos\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.genruntimeconfig.cache
