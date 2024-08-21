@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.exe
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.deps.json
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.json
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.dll
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\ref\RoundingNumbers.dll
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.pdb
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.dll
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\ref\RoundingNumbers.dll
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.pdb
+C:\Users\LUSI\source\repos\Arrays\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.genruntimeconfig.cache

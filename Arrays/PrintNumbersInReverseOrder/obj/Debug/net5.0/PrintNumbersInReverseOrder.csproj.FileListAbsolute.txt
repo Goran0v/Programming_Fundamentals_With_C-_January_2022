@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.exe
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.deps.json
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.dll
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\net5.0\ref\PrintNumbersInReverseOrder.dll
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.pdb
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.dll
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\net5.0\ref\PrintNumbersInReverseOrder.dll
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.pdb
+C:\Users\LUSI\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.genruntimeconfig.cache
