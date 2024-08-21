@@ -1,0 +1,15 @@
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.exe
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.deps.json
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.runtimeconfig.json
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.dll
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\ref\CommonElements.dll
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.pdb
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.dll
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\ref\CommonElements.dll
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.pdb
+C:\Users\LUSI\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.genruntimeconfig.cache
