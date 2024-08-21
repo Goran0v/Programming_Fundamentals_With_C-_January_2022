@@ -1,0 +1,15 @@
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\bin\Debug\net5.0\EvenAndOddSubstractions.exe
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\bin\Debug\net5.0\EvenAndOddSubstractions.deps.json
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\bin\Debug\net5.0\EvenAndOddSubstractions.runtimeconfig.json
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\bin\Debug\net5.0\EvenAndOddSubstractions.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\bin\Debug\net5.0\EvenAndOddSubstractions.dll
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\bin\Debug\net5.0\ref\EvenAndOddSubstractions.dll
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\bin\Debug\net5.0\EvenAndOddSubstractions.pdb
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\obj\Debug\net5.0\EvenAndOddSubstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\obj\Debug\net5.0\EvenAndOddSubstractions.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\obj\Debug\net5.0\EvenAndOddSubstractions.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\obj\Debug\net5.0\EvenAndOddSubstractions.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\obj\Debug\net5.0\EvenAndOddSubstractions.dll
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\obj\Debug\net5.0\ref\EvenAndOddSubstractions.dll
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\obj\Debug\net5.0\EvenAndOddSubstractions.pdb
+C:\Users\LUSI\source\repos\Arrays\EvenAndOddSubstractions\obj\Debug\net5.0\EvenAndOddSubstractions.genruntimeconfig.cache
