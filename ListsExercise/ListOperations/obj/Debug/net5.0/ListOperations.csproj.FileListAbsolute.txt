@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.exe
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.deps.json
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.runtimeconfig.json
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.dll
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\bin\Debug\net5.0\ref\ListOperations.dll
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.pdb
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.dll
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\obj\Debug\net5.0\ref\ListOperations.dll
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.pdb
+C:\Users\LUSI\source\repos\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.genruntimeconfig.cache
