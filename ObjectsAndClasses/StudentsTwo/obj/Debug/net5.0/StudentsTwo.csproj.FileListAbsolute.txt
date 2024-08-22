@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\bin\Debug\net5.0\StudentsTwo.exe
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\bin\Debug\net5.0\StudentsTwo.deps.json
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\bin\Debug\net5.0\StudentsTwo.runtimeconfig.json
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\bin\Debug\net5.0\StudentsTwo.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\bin\Debug\net5.0\StudentsTwo.dll
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\bin\Debug\net5.0\ref\StudentsTwo.dll
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\bin\Debug\net5.0\StudentsTwo.pdb
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\obj\Debug\net5.0\StudentsTwo.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\obj\Debug\net5.0\StudentsTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\obj\Debug\net5.0\StudentsTwo.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\obj\Debug\net5.0\StudentsTwo.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\obj\Debug\net5.0\StudentsTwo.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\obj\Debug\net5.0\StudentsTwo.dll
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\obj\Debug\net5.0\ref\StudentsTwo.dll
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\obj\Debug\net5.0\StudentsTwo.pdb
+C:\Users\LUSI\source\repos\ObjectsAndClasses\StudentsTwo\obj\Debug\net5.0\StudentsTwo.genruntimeconfig.cache
