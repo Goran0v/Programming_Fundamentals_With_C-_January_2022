@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.exe
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.deps.json
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.json
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.dll
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\bin\Debug\net5.0\ref\AppendArrays.dll
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.pdb
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.dll
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\obj\Debug\net5.0\ref\AppendArrays.dll
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.pdb
+C:\Users\LUSI\source\repos\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.genruntimeconfig.cache
