@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\bin\Debug\net5.0\OrderByAge.exe
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\bin\Debug\net5.0\OrderByAge.deps.json
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\bin\Debug\net5.0\OrderByAge.runtimeconfig.json
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\bin\Debug\net5.0\OrderByAge.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\bin\Debug\net5.0\OrderByAge.dll
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\bin\Debug\net5.0\ref\OrderByAge.dll
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\bin\Debug\net5.0\OrderByAge.pdb
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\obj\Debug\net5.0\OrderByAge.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\obj\Debug\net5.0\OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\obj\Debug\net5.0\OrderByAge.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\obj\Debug\net5.0\OrderByAge.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\obj\Debug\net5.0\OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\obj\Debug\net5.0\OrderByAge.dll
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\obj\Debug\net5.0\ref\OrderByAge.dll
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\obj\Debug\net5.0\OrderByAge.pdb
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\OrderByAge\obj\Debug\net5.0\OrderByAge.genruntimeconfig.cache

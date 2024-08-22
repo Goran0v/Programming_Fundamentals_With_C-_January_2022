@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.exe
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.deps.json
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.runtimeconfig.json
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.dll
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\ref\VehicleCatalogue.dll
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.pdb
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.dll
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\ref\VehicleCatalogue.dll
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.pdb
+C:\Users\LUSI\source\repos\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.genruntimeconfig.cache
