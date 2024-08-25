@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.exe
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.deps.json
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.runtimeconfig.json
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.dll
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\net5.0\ref\IntroAndBasicSyntax.dll
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.pdb
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.dll
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\net5.0\ref\IntroAndBasicSyntax.dll
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.pdb
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.genruntimeconfig.cache
