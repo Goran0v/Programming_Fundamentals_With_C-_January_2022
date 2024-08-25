@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.exe
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.deps.json
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.runtimeconfig.json
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.dll
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\bin\Debug\net5.0\ref\ShootForTheWin.dll
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\bin\Debug\net5.0\ShootForTheWin.pdb
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.dll
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\obj\Debug\net5.0\ref\ShootForTheWin.dll
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.pdb
+C:\Users\LUSI\source\repos\MidExamPreparation\ShootForTheWin\obj\Debug\net5.0\ShootForTheWin.genruntimeconfig.cache
