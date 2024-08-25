@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.exe
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.deps.json
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.runtimeconfig.json
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\bin\Debug\net5.0\ref\AddAndSubstract.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.pdb
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\obj\Debug\net5.0\ref\AddAndSubstract.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.pdb
+C:\Users\LUSI\source\repos\ExerciseMethods\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.genruntimeconfig.cache
