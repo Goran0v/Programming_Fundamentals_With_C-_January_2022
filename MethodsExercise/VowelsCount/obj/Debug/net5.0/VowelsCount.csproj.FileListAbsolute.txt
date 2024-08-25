@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\bin\Debug\net5.0\VowelsCount.exe
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\bin\Debug\net5.0\VowelsCount.deps.json
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\bin\Debug\net5.0\VowelsCount.runtimeconfig.json
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\bin\Debug\net5.0\VowelsCount.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\bin\Debug\net5.0\VowelsCount.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\bin\Debug\net5.0\ref\VowelsCount.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\bin\Debug\net5.0\VowelsCount.pdb
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\obj\Debug\net5.0\VowelsCount.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\obj\Debug\net5.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\obj\Debug\net5.0\VowelsCount.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\obj\Debug\net5.0\VowelsCount.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\obj\Debug\net5.0\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\obj\Debug\net5.0\VowelsCount.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\obj\Debug\net5.0\ref\VowelsCount.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\obj\Debug\net5.0\VowelsCount.pdb
+C:\Users\LUSI\source\repos\ExerciseMethods\VowelsCount\obj\Debug\net5.0\VowelsCount.genruntimeconfig.cache

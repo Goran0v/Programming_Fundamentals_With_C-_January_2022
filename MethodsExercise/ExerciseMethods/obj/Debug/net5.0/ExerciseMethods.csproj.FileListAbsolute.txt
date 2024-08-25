@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\bin\Debug\net5.0\ExerciseMethods.exe
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\bin\Debug\net5.0\ExerciseMethods.deps.json
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\bin\Debug\net5.0\ExerciseMethods.runtimeconfig.json
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\bin\Debug\net5.0\ExerciseMethods.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\bin\Debug\net5.0\ExerciseMethods.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\bin\Debug\net5.0\ref\ExerciseMethods.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\bin\Debug\net5.0\ExerciseMethods.pdb
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\obj\Debug\net5.0\ExerciseMethods.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\obj\Debug\net5.0\ExerciseMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\obj\Debug\net5.0\ExerciseMethods.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\obj\Debug\net5.0\ExerciseMethods.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\obj\Debug\net5.0\ExerciseMethods.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\obj\Debug\net5.0\ExerciseMethods.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\obj\Debug\net5.0\ref\ExerciseMethods.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\obj\Debug\net5.0\ExerciseMethods.pdb
+C:\Users\LUSI\source\repos\ExerciseMethods\ExerciseMethods\obj\Debug\net5.0\ExerciseMethods.genruntimeconfig.cache
