@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\bin\Debug\net5.0\NxNMatrix.exe
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\bin\Debug\net5.0\NxNMatrix.deps.json
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\bin\Debug\net5.0\NxNMatrix.runtimeconfig.json
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\bin\Debug\net5.0\NxNMatrix.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\bin\Debug\net5.0\NxNMatrix.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\bin\Debug\net5.0\ref\NxNMatrix.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\bin\Debug\net5.0\NxNMatrix.pdb
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\obj\Debug\net5.0\NxNMatrix.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\obj\Debug\net5.0\NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\obj\Debug\net5.0\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\obj\Debug\net5.0\NxNMatrix.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\obj\Debug\net5.0\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\obj\Debug\net5.0\NxNMatrix.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\obj\Debug\net5.0\ref\NxNMatrix.dll
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\obj\Debug\net5.0\NxNMatrix.pdb
+C:\Users\LUSI\source\repos\ExerciseMethods\NxNMatrix\obj\Debug\net5.0\NxNMatrix.genruntimeconfig.cache
