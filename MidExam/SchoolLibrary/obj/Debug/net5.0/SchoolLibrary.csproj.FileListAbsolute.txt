@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.exe
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.deps.json
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.runtimeconfig.json
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.dll
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\bin\Debug\net5.0\ref\SchoolLibrary.dll
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\bin\Debug\net5.0\SchoolLibrary.pdb
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.dll
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\obj\Debug\net5.0\ref\SchoolLibrary.dll
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.pdb
+C:\Users\LUSI\source\repos\MidExam\SchoolLibrary\obj\Debug\net5.0\SchoolLibrary.genruntimeconfig.cache

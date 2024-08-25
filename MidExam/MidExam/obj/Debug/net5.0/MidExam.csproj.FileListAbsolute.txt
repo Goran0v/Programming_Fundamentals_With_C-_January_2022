@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\MidExam\MidExam\bin\Debug\net5.0\MidExam.exe
+C:\Users\LUSI\source\repos\MidExam\MidExam\bin\Debug\net5.0\MidExam.deps.json
+C:\Users\LUSI\source\repos\MidExam\MidExam\bin\Debug\net5.0\MidExam.runtimeconfig.json
+C:\Users\LUSI\source\repos\MidExam\MidExam\bin\Debug\net5.0\MidExam.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\MidExam\MidExam\bin\Debug\net5.0\MidExam.dll
+C:\Users\LUSI\source\repos\MidExam\MidExam\bin\Debug\net5.0\ref\MidExam.dll
+C:\Users\LUSI\source\repos\MidExam\MidExam\bin\Debug\net5.0\MidExam.pdb
+C:\Users\LUSI\source\repos\MidExam\MidExam\obj\Debug\net5.0\MidExam.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\MidExam\MidExam\obj\Debug\net5.0\MidExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\MidExam\MidExam\obj\Debug\net5.0\MidExam.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\MidExam\MidExam\obj\Debug\net5.0\MidExam.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\MidExam\MidExam\obj\Debug\net5.0\MidExam.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\MidExam\MidExam\obj\Debug\net5.0\MidExam.dll
+C:\Users\LUSI\source\repos\MidExam\MidExam\obj\Debug\net5.0\ref\MidExam.dll
+C:\Users\LUSI\source\repos\MidExam\MidExam\obj\Debug\net5.0\MidExam.pdb
+C:\Users\LUSI\source\repos\MidExam\MidExam\obj\Debug\net5.0\MidExam.genruntimeconfig.cache
