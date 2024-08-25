@@ -1,0 +1,16 @@
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.exe
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.deps.json
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.runtimeconfig.json
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.dll
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\bin\Debug\net5.0\ref\TheatrePromotion.dll
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.pdb
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.dll
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\obj\Debug\net5.0\ref\TheatrePromotion.dll
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.pdb
+C:\Users\LUSI\source\repos\IntroAndBasicSyntax\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.genruntimeconfig.cache
